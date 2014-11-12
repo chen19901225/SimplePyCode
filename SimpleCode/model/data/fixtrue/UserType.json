@@ -1,0 +1,22 @@
+[
+    {
+        "value": 0,
+        "code": "advertiser",
+        "name": "广告主"
+    },
+    {
+        "value": 1,
+        "code": "developer",
+        "name": "开发者"
+    },
+    {
+        "value": 2,
+        "code": "advertiser_massive",
+        "name": "大客户"
+    },
+    {
+        "value": 3,
+        "code": "manager",
+        "name": "管理员"
+    }
+]

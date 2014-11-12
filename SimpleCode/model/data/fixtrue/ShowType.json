@@ -1,0 +1,32 @@
+[
+    {
+        "name": "广告条（文字加图标）",
+        "code": "banner_word+icon",
+        "value": 1
+    },
+    {
+        "name": "广告条（静态横幅图片）",
+        "code": "banner_image_static",
+        "value": 2
+    },
+    {
+        "name": "广告条（动态横幅图片）",
+        "code": "banner_image_dynamic",
+        "value": 3
+    },
+    {
+        "name": "全屏广告",
+        "code": "full_screen",
+        "value": 4
+    },
+    {
+        "name": "浮层广告",
+        "code": "popup",
+        "value": 5
+    },
+    {
+        "name": "CPA",
+        "code": "cpa",
+        "value": 6
+    }
+]

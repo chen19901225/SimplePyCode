@@ -1,0 +1,17 @@
+[
+    {
+        "name": "按点击付费（CPC）",
+        "code": "cpc",
+        "value": 0
+    },
+    {
+        "name": "按千次展示付费（CPM）",
+        "code": "cpm",
+        "value": 1
+    },
+    {
+        "name": "按效果付费（CPA）",
+        "code": "cpa",
+        "value": 2
+    }
+]

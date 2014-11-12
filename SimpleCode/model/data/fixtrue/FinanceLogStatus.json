@@ -1,0 +1,17 @@
+[
+    {
+        "value": 0,
+        "code": "verifying",
+        "name": "审核中"
+    },
+    {
+        "value": 1,
+        "code": "verified",
+        "name": "已确认"
+    },
+    {
+        "value": 2,
+        "code": "rejected",
+        "name": "未通过"
+    }
+]

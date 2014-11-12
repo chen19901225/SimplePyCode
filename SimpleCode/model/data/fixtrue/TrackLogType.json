@@ -1,0 +1,17 @@
+[
+    {
+        "value": 0,
+        "code": "click",
+        "name": "点击"
+    },
+    {
+        "value": 1,
+        "code": "show",
+        "name": "展示"
+    },
+    {
+        "value": 2,
+        "code": "request",
+        "name": "请求"
+    }
+]

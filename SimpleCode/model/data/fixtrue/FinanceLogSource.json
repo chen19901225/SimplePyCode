@@ -1,0 +1,12 @@
+[
+    {
+        "name": "银行汇款",
+        "code": "bank_remittance",
+        "value": 0
+    },
+    {
+        "name": "支付宝",
+        "code": "alipay",
+        "value": 1
+    }
+]

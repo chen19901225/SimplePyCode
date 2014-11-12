@@ -1,0 +1,17 @@
+[
+    {
+        "name": "无预算",
+        "code": "none",
+        "value": 0
+    },
+    {
+        "name": "日预算",
+        "code": "daily",
+        "value": 1
+    },
+    {
+        "name": "总预算",
+        "code": "all",
+        "value": 2
+    }
+]

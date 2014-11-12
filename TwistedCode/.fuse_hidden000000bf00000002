@@ -1,0 +1,33 @@
+2014-10-03 20:16:06+0800 [-] Log opened.
+2014-10-03 20:16:06+0800 [-] twistd 13.2.0 (/usr/bin/python 2.7.6) starting up.
+2014-10-03 20:16:06+0800 [-] reactor class: twisted.internet.epollreactor.EPollReactor.
+2014-10-03 20:16:06+0800 [-] Traceback (most recent call last):
+2014-10-03 20:16:06+0800 [-]   File "/usr/bin/twistd", line 14, in <module>
+2014-10-03 20:16:06+0800 [-]     run()
+2014-10-03 20:16:06+0800 [-]   File "/usr/lib/python2.7/dist-packages/twisted/scripts/twistd.py", line 27, in run
+2014-10-03 20:16:06+0800 [-]     app.run(runApp, ServerOptions)
+2014-10-03 20:16:06+0800 [-]   File "/usr/lib/python2.7/dist-packages/twisted/application/app.py", line 642, in run
+2014-10-03 20:16:06+0800 [-]     runApp(config)
+2014-10-03 20:16:06+0800 [-]   File "/usr/lib/python2.7/dist-packages/twisted/scripts/twistd.py", line 23, in runApp
+2014-10-03 20:16:06+0800 [-]     _SomeApplicationRunner(config).run()
+2014-10-03 20:16:06+0800 [-]   File "/usr/lib/python2.7/dist-packages/twisted/application/app.py", line 380, in run
+2014-10-03 20:16:06+0800 [-]     self.postApplication()
+2014-10-03 20:16:06+0800 [-]   File "/usr/lib/python2.7/dist-packages/twisted/scripts/_twistd_unix.py", line 193, in postApplication
+2014-10-03 20:16:06+0800 [-]     self.startApplication(self.application)
+2014-10-03 20:16:06+0800 [-]   File "/usr/lib/python2.7/dist-packages/twisted/scripts/_twistd_unix.py", line 381, in startApplication
+2014-10-03 20:16:06+0800 [-]     service.IService(application).privilegedStartService()
+2014-10-03 20:16:06+0800 [-]   File "/usr/lib/python2.7/dist-packages/twisted/application/service.py", line 277, in privilegedStartService
+2014-10-03 20:16:06+0800 [-]     service.privilegedStartService()
+2014-10-03 20:16:06+0800 [-]   File "/usr/lib/python2.7/dist-packages/twisted/application/service.py", line 277, in privilegedStartService
+2014-10-03 20:16:06+0800 [-]     service.privilegedStartService()
+2014-10-03 20:16:06+0800 [-]   File "/usr/lib/python2.7/dist-packages/twisted/application/internet.py", line 105, in privilegedStartService
+2014-10-03 20:16:06+0800 [-]     self._port = self._getPort()
+2014-10-03 20:16:06+0800 [-]   File "/usr/lib/python2.7/dist-packages/twisted/application/internet.py", line 133, in _getPort
+2014-10-03 20:16:06+0800 [-]     'listen%s' % (self.method,))(*self.args, **self.kwargs)
+2014-10-03 20:16:06+0800 [-] TypeError: listenTCP() takes at least 3 arguments (3 given)
+2014-10-03 20:17:03+0800 [-] Log opened.
+2014-10-03 20:17:03+0800 [-] twistd 13.2.0 (/usr/bin/python 2.7.6) starting up.
+2014-10-03 20:17:03+0800 [-] reactor class: twisted.internet.epollreactor.EPollReactor.
+2014-10-03 20:17:03+0800 [-] PoetryServerFactory starting on 10000
+2014-10-03 20:17:03+0800 [-] Starting factory <twisted.plugins.fasepoetry_plugin.PoetryServerFactory instance at 0x7f0784e99518>
+2014-10-03 20:17:03+0800 [-] loaded a poem from poetry/ec.txt

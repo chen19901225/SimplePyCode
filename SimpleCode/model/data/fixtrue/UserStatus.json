@@ -1,0 +1,27 @@
+[
+    {
+        "value": 0,
+        "code": "paused",
+        "name": "暂停"
+    },
+    {
+        "value": 1,
+        "code": "not verified",
+        "name": "未审核"
+    },
+    {
+        "value": 2,
+        "code": "verifying",
+        "name": "审核中"
+    },
+    {
+        "value": 3,
+        "code": "verified",
+        "name": "通过审核"
+    },
+    {
+        "value": 4,
+        "code": "rejected",
+        "name": "未通过审核"
+    }
+]

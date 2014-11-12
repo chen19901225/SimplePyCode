@@ -1,0 +1,27 @@
+[
+    {
+        "name": "全部",
+        "code": "all",
+        "value": 0
+    },
+    {
+        "name": "移动",
+        "code": "cmcc",
+        "value": 1
+    },
+    {
+        "name": "联通",
+        "code": "unicom",
+        "value": 2
+    },
+    {
+        "name": "电信",
+        "code": "cmnet",
+        "value": 3
+    },
+    {
+        "name": "其他",
+        "code": "other",
+        "value": 4
+    }
+]

@@ -1,0 +1,23 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="scrapy_setting" type="PythonConfigurationType" factoryName="Python">
+    <option name="INTERPRETER_OPTIONS" value="" />
+    <option name="PARENT_ENVS" value="true" />
+    <envs>
+      <env name="PYTHONUNBUFFERED" value="1" />
+    </envs>
+    <option name="SDK_HOME" value="/usr/bin/python2.7" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tutorial" />
+    <option name="IS_MODULE_SDK" value="false" />
+    <option name="ADD_CONTENT_ROOTS" value="true" />
+    <option name="ADD_SOURCE_ROOTS" value="true" />
+    <module name="ScrapyCode" />
+    <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+    <option name="SCRIPT_NAME" value="/usr/local/lib/python2.7/dist-packages/scrapy/cmdline.py" />
+    <option name="PARAMETERS" value="crawl  dmoz" />
+    <RunnerSettings RunnerId="PyDebugRunner" />
+    <RunnerSettings RunnerId="PythonRunner" />
+    <ConfigurationWrapper RunnerId="PyDebugRunner" />
+    <ConfigurationWrapper RunnerId="PythonRunner" />
+    <method />
+  </configuration>
+</component>

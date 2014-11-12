@@ -1,0 +1,12 @@
+[
+    {
+        "value": 0,
+        "code": "ios",
+        "name": "iOS"
+    },
+    {
+        "value": 1,
+        "code": "android",
+        "name": "Android"
+    }
+]

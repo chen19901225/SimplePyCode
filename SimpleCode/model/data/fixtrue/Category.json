@@ -1,0 +1,97 @@
+[
+    {
+        "value": 0,
+        "code": "software&game",
+        "name": "软件游戏"
+    },
+    {
+        "value": 1,
+        "code": "house&consumable",
+        "name": "居家快消品"
+    },
+    {
+        "value": 2,
+        "code": "sport",
+        "name": "运动体育"
+    },
+    {
+        "value": 3,
+        "code": "property",
+        "name": "房地产"
+    },
+    {
+        "value": 4,
+        "code": "entertainment",
+        "name": "娱乐影音"
+    },
+    {
+        "value": 5,
+        "code": "finance",
+        "name": "金融理财"
+    },
+    {
+        "value": 6,
+        "code": "education",
+        "name": "教育培训"
+    },
+    {
+        "value": 7,
+        "code": "e-business",
+        "name": "网上商城"
+    },
+    {
+        "value": 8,
+        "code": "medicalcare",
+        "name": "医疗健康"
+    },
+    {
+        "value": 9,
+        "code": "website",
+        "name": "网站门户"
+    },
+    {
+        "value": 10,
+        "code": "digital",
+        "name": "数码家电"
+    },
+    {
+        "value": 11,
+        "code": "beauty",
+        "name": "美容用品"
+    },
+    {
+        "value": 12,
+        "code": "travel&outdoors",
+        "name": "旅游户外"
+    },
+    {
+        "value": 13,
+        "code": "car&luxe",
+        "name": "汽车奢侈品"
+    },
+    {
+        "value": 14,
+        "code": "hotel&aviation",
+        "name": "酒店航空"
+    },
+    {
+        "value": 15,
+        "code": "shoppingmall",
+        "name": "连锁业百货"
+    },
+    {
+        "value": 16,
+        "code": "fashion&shoes",
+        "name": "服饰鞋业"
+    },
+    {
+        "value": 17,
+        "code": "immigrant",
+        "name": "移民留学"
+    },
+    {
+        "value": 18,
+        "code": "car",
+        "name": "汽车"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "value": 0,
+        "code": "recharge",
+        "name": "充值"
+    },
+    {
+        "value": 1,
+        "code": "withdrawal",
+        "name": "提款"
+    }
+]

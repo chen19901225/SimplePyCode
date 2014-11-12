@@ -1,0 +1,62 @@
+[
+    {
+        "name": "娱乐",
+        "code": "entertainment",
+        "value": 0
+    },
+    {
+        "name": "汽车",
+        "code": "car",
+        "value": 1
+    },
+    {
+        "name": "财经金融",
+        "code": "finance",
+        "value": 2
+    },
+    {
+        "name": "商旅",
+        "code": "voyage",
+        "value": 3
+    },
+    {
+        "name": "新闻资讯",
+        "code": "news",
+        "value": 4
+    },
+    {
+        "name": "阅读",
+        "code": "reading",
+        "value": 5
+    },
+    {
+        "name": "游戏",
+        "code": "game",
+        "value": 6
+    },
+    {
+        "name": "生活",
+        "code": "life",
+        "value": 7
+    },
+    {
+        "name": "工具",
+        "code": "tool",
+        "value": 8
+    },
+    {
+        "name": "教育学习",
+        "code": "education",
+        "value": 9
+    },
+    {
+        "name": "体育",
+        "code": "sport",
+        "value": 10
+    },
+    {
+        "name": "女性",
+        "code": "female",
+        "value": 11
+    }
+]

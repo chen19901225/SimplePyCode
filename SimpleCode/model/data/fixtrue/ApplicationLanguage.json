@@ -1,0 +1,22 @@
+[
+    {
+        "value": 0,
+        "code": "all",
+        "name": "全部"
+    },
+    {
+        "value": 1,
+        "code": "zh-hans",
+        "name": "简体"
+    },
+    {
+        "value": 2,
+        "code": "zh-hant",
+        "name": "繁体"
+    },
+    {
+        "value": 3,
+        "code": "en",
+        "name": "英文"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "value": 0,
+        "code": "advertiser_personal",
+        "name": "个人广告商"
+    },
+    {
+        "value": 1,
+        "code": "advertiser_company",
+        "name": "公司广告商"
+    },
+    {
+        "value": 2,
+        "code": "developer_personal",
+        "name": "个人开发者"
+    },
+    {
+        "value": 3,
+        "code": "developer_company",
+        "name": "公司开发者"
+    }
+]

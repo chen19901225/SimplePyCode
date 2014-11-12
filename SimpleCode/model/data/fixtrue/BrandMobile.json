@@ -1,0 +1,92 @@
+[
+    {
+        "name": "全部",
+        "code": "all",
+        "value": 0
+    },
+    {
+        "name": "诺基亚",
+        "code": "nokia",
+        "value": 1
+    },
+    {
+        "name": "索尼爱立信",
+        "code": "sony ericsson",
+        "value": 2
+    },
+    {
+        "name": "摩托罗拉",
+        "code": "moto",
+        "value": 3
+    },
+    {
+        "name": "三星",
+        "code": "samsung",
+        "value": 4
+    },
+    {
+        "name": "LG",
+        "code": "lg",
+        "value": 5
+    },
+    {
+        "name": "夏普",
+        "code": "sharp",
+        "value": 6
+    },
+    {
+        "name": "多普达",
+        "code": "dopod",
+        "value": 7
+    },
+    {
+        "name": "苹果",
+        "code": "apple",
+        "value": 8
+    },
+    {
+        "name": "联想",
+        "code": "lenovo",
+        "value": 9
+    },
+    {
+        "name": "魅族",
+        "code": "meizu",
+        "value": 10
+    },
+    {
+        "name": "天语",
+        "code": "k-touch",
+        "value": 11
+    },
+    {
+        "name": "黑莓",
+        "code": "blackberry",
+        "value": 12
+    },
+    {
+        "name": "OPPO",
+        "code": "oppo",
+        "value": 13
+    },
+    {
+        "name": "酷派",
+        "code": "coolpad",
+        "value": 14
+    },
+    {
+        "name": "华为",
+        "code": "huawei",
+        "value": 15
+    },
+    {
+        "name": "HTC",
+        "code": "htc",
+        "value": 16
+    },
+    {
+        "name": "中兴",
+        "code": "zte",
+        "value": 17
+    }
+]

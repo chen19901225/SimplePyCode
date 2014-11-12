@@ -1,0 +1,17 @@
+[
+    {
+        "name": "全部",
+        "code": "all",
+        "value": 0
+    },
+    {
+        "name": "免费应用",
+        "code": "free",
+        "value": 1
+    },
+    {
+        "name": "收费应用",
+        "code": "pay",
+        "value": 2
+    }
+]

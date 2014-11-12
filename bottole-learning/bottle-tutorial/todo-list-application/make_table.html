@@ -1,0 +1,16 @@
+<html>
+<head></head>
+<body>
+    <p>The open items are as follows:</p>
+    <table>
+        %for row in rows:
+            <tr>
+                 %for col in row:
+                    <td>${col}</td>
+                 %endfor
+             </tr>
+        %endfor
+
+    </table>
+</body>
+</html>

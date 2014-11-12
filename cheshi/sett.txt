@@ -1,0 +1,10 @@
+domain_url=http://testicypm.jhnavi.com
+host=192.168.1.180
+user=root
+passwd=jhnavigzjh
+db=DBICYPM
+port=3306
+charset=utf8
+zheshi_url=icypmweb.jhnavi.com
+yw_url=http://localhost:36648
+
